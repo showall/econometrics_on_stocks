@@ -1,4 +1,4 @@
-# econometrics_project
+econometrics_project
 
 The code applies a basic regression model to JP Morgan return against S&P 500 from 1/2/2018 to 31/12/2018  
 
